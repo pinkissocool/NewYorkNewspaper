@@ -1,0 +1,38 @@
+.page {
+  width: 600px;
+  height: 1000px;
+  border-left: solid;
+  border-top: solid;
+  border-bottom: solid;
+  padding: 20px;
+  padding-top: 0px;
+}
+
+#article_title {
+  font-family: "Anton";
+  font-size: 50px;
+  letter-spacing: 7px;
+  margin-top: 0px;
+  font-weight: 100;
+}
+
+#intro {
+  font-family: "Oswald";
+  font-size: 25px;
+  line-height: 2.5;
+}
+
+.question{
+ font-family: "Raleway";
+ font-size:15px;
+}
+
+.answer{
+ font-family: "Raleway";
+ font-size: 15px;
+}
+
+#block_quote {
+  font-family:"Oswald";
+  font-size: 30px;
+}
